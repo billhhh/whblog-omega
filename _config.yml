@@ -1,7 +1,7 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
-logo:             omikron.png
-disqus_shortname: hmfaysal
+title:            This is bill
+description:      "Some birds are not meant to be caged, because their feathers are just too bright. "
+logo:             superman.jpg
+disqus_shortname: billhhh
 # Assign a default image for your site's header and footer
 default_bg:       the-matrix.jpg
 search:           true
@@ -15,9 +15,7 @@ triangleheader:		true
 animated_fins:	  true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
-# Change url to your domain. Leave localhost server or blank when working locally.
-# or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
-# whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
+# my domain.
 url:       		   /whblog-omega
 
 # Owner/author information
