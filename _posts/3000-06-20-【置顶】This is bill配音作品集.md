@@ -6,6 +6,7 @@ description: "这是我的配音作品集."
 category: 随笔
 tags: [post, video]
 video: http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562
+imagefeature: picture-21.jpg
 comments: true
 share: true
 ---
