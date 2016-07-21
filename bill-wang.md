@@ -1,23 +1,17 @@
 ---
 layout: page
-permalink: /hossain-mohd-faysal/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+permalink: /whblog-omega/index.html
+title: Bill Wang
+tags: [Bill, Wang, Hu]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: superman.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/superman.jpg" alt="Bill Wang">
+  <figcaption>Bill Wang</figcaption>
 </figure>
 
->Entrepreneur
->
->Designer
->
 >Engineer
->
->Inventor
 
 I
 make
