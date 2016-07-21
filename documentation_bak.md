@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /documentation/
+permalink: /documentation.../
 title: Documentation
 description: "Instructions on how to install and customize the HMFAYSAL OMEGA Theme."
 tags: [Jekyll, theme, install, setup]
