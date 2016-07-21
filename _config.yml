@@ -20,17 +20,17 @@ url:       		   /whblog-omega
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Bill Wang
+  avatar:         superman.jpg
+  email:          billhhh@163.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Bill Wang is a coder. His interests are anything that&#8217;s related to tech, from tech itself to programming languages to music to physics to engineering to philosophy.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
+  twitter:        https://twitter.com/BillScythe
   facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       https://www.linkedin.com/pub/firstname-lastname/12/345/678
+  github:         https://github.com/billhhh
+  stackexchange:  
+  linkedin:       
   instagram:      
   flickr:         
   tumblr:         
