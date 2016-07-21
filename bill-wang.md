@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /whblog-omega/index.html
+permalink: /bill-wang/index.html
 title: Bill Wang
 tags: [Bill, Wang, Hu]
 image:
