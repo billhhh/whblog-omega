@@ -11,6 +11,8 @@ comments: true
 share: true
 ---
 
+![这里写图片描述](http://img.blog.csdn.net/20160723170411520)
+
 On Wednesday, Facebook filed the prospectus for a $5 billion initial public offering. Here is CEO Mark Zuckerberg’s letter to potential investors.
 Facebook was not originally created to be a company. It was built to accomplish a social mission — to make the world more open and connected.
 
