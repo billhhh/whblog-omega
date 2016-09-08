@@ -1,6 +1,7 @@
 ---
 layout: post
 title: American Dream（一）之疯狂填表格
+type:  quote
 headline: ...
 description: "美国之旅第一季"
 category: 随笔
