@@ -11,6 +11,8 @@ comments: true
 share: true
 ---
 
+he'd turn towards us,to the ship, towards everybody and scream... America! America!!!
+
 这篇文章很早就写了，因为这段时间忙于各种事情的原因没有po上来，现在终于静下来，可以好好整理一下了。
 
 #一、买机票
