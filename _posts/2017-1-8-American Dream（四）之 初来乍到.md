@@ -11,7 +11,7 @@ comments: true
 share: true
 ---
 
-How TMD time flies, 我都已经回国了，感觉像做了一个长长的梦，应了跟congcong说的“正好黑夜和白天颠倒就像做梦”，只是这个梦持续了将近半年。本来应该在美国写这些日记的，但是因为初到异国他乡，杂七杂八事情太多，一直不想写。回来了会继续写完~~~
+How TMD time flies, 我都已经回国了，感觉像做了一个长长的梦，应了跟congcong说的“正好黑夜和白天颠倒就像做梦”，只是这个梦持续了将近半年。本来应该在美国写这些日记的，但是因为初到异国他乡，杂七杂八事情太多，一直不想写。回来了趁着记忆新鲜会继续写完~~~
 
 #一、起飞
 
@@ -45,6 +45,6 @@ He'd turn to us, towards the ship towards everybody and scream...
 
 一路上都在聊天，看到了典型美国风光的一望无际的麦田，还看到一个很奇特的景观：因为是八月份，下雨比较多，广阔的平原上，右边是晴空万里，左边是乳白色的雨幕~~~实在是很奇妙。
 
-到了Pittsburg，我安顿在regency inn 2晚好找房子，shannon告诉说Pittsburg是长条状分布，主街叫Broadway，商店分布在两边。小城很安全，就是担心车，我给她30刀作为答谢~~
+到了Pittsburg，我安顿在regency inn 2晚好找房子，shannon告诉说Pittsburg是长条状分布，主街叫Broadway，商店分布在两边。小城很安全，就是担心车速很快，我给她30刀作为答谢~~
 
 #To Be Continue...
