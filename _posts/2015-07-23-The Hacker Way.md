@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【置顶】The Hacker Way
+title: The Hacker Way
 type:  photo
 headline: ...
 description: "The Hacker Way"
