@@ -1,7 +1,7 @@
 ---
 layout: post
-type:	video
-title: 【置顶】This is bill配音作品集（缓慢更新）
+type:	photo
+title: Bill's Dubbing Posts
 description: "这是我的配音作品集."
 category: 随笔
 tags: [post, video]
@@ -10,11 +10,9 @@ comments: true
 share: true
 ---
 
-前言：我这里想特别感谢一下英语趣配音，作为第一批粉丝给我带来了无尽的欢乐~~~于是整理一个大合集，哈哈，希望大家喜欢
+前言：我这里想特别感谢一下英语趣配音，作为第一批粉丝给我带来了无尽的欢乐~~~于是整理一个大合集
 
 ![这里写图片描述](http://img.blog.csdn.net/20151210231421459)
-
-这些是我配音的集合哦~~
 
 ###1.<font color="red">星际穿越（强烈推荐）[原视频地址](http://www.mofunenglish.com/index.php?act=mofunshow&mdl=show&msg_id=1316562)</font>
 
