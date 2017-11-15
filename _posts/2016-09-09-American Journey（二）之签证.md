@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American Dream（二）之签证
+title: American Journey（二）之签证
 type:  photo
 headline: ...
 description: "美国之旅第二季"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American Dream（一）之疯狂填表格
+title: American Journey（一）之疯狂填表格
 type:  quote
 headline: ...
 description: "美国之旅第一季"

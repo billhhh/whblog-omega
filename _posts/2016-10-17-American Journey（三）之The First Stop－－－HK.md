@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American Dream（三）之The First Stop－－－HK
+title: American Journey（三）之The First Stop－－－HK
 type:  photo
 headline: ...
 description: "美国之旅第三季"
